@@ -1,0 +1,58 @@
+div.employee{
+    height:200px;
+    width:600px;
+    -moz-box-shadow:5px 5px 5px #777777;
+    -webkit-box-shadow: 5px 5px 5px #777777;
+    box-shadow: 5px 5px 5px #777777;
+    border:1px solid black;
+    padding:10px;
+    border-radius: 10px;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom:10px
+    
+}
+div.general{
+    float:left;
+    width:150px;
+    height:180px;
+    font-size: 18px;
+    font-weight: bold
+}
+div.eName{
+    font-weight: bold;
+}
+img{
+    width:150px;
+    height:150px;
+}
+.title{
+    font-size: 18px;
+    width:430px;
+    height:10px
+    float:left;
+    font-weight: bold;
+    padding:0 0 0 10;
+    overflow: scroll
+}
+.department{
+    float:left;
+    width:430px;
+    height:10px;
+    padding:4 0 4 10
+}
+.email{
+    float:left;
+    width:430px;
+    height: 10px;
+    padding:4 0 4 10
+}
+.bio{
+    float:left;
+    width:430px;
+    height:120px;
+    padding:0 0 0 10;
+    overflow: scroll
+}
